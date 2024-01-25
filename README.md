@@ -1,6 +1,7 @@
 # dotnet-learning-resources
 
 ### YouTube Channels
+- https://www.youtube.com/@dotnet/playlists
 - https://www.youtube.com/results?search_query=Code+wrinkle
 - https://www.youtube.com/watch?v=HCuoBwXS95o&list=PLBapd_vePld_986VHC2UbcPY4Q2j9-lpT&index=3
 - https://www.youtube.com/@TeddySmithDev
